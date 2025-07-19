@@ -20,6 +20,4 @@ button.addEventListener('click',()=>{
 
 })
 
-//BMI calculator
-// Dhahej calculator
-// Alimony Calculator
+
